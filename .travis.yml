@@ -1,0 +1,10 @@
+sudo: required
+language: generic
+services:
+  - docker
+
+before_install:
+  - docker build -t portfolio/dev -f Dockerfile.dev .
+
+script:
+  - docker run -e CI=true portfolio/dev npm run test
