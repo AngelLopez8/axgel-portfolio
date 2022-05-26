@@ -38,7 +38,7 @@ const Certificates = () => {
             <p className="section-subtitle-project">In Progress Certificates</p>
             <div className="portfolio">
                 <Certificate
-                    title={"Docker and Kubernetes: The Complete Guide"}
+                    title={"Ultimate AWS Certified Developer Associate 2022"}
                     media={DEFAULT}
                     link={""}
                 />
