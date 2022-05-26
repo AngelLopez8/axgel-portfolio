@@ -4,6 +4,7 @@ import DEFAULT from '../../Images/Certificates/default.gif';
 import CPP from '../../Images/Certificates/cppcertificate.jpg';
 import DJANGO from "../../Images/Certificates/djangocertificate.png";
 import MYSQL from "../../Images/Certificates/mysqlcertificate.jpg";
+import DOCKER from '../../Images/Certificates/dockercertificate.jpg';
 
 import Certificate from './Certificate';
 
@@ -28,6 +29,11 @@ const Certificates = () => {
                     media={MYSQL}
                     link={"https://www.udemy.com/certificate/UC-78f96d2c-982e-4244-9d6a-50016e9c353c/"}
                 /> 
+                <Certificate
+                    title={"Docker and Kubernetes: The Complete Guide"}
+                    media={DOCKER}
+                    link={"https://www.udemy.com/certificate/UC-94caee4e-0d85-404a-873a-f5dbf8585f6d/"}
+                />
             </div>
             <p className="section-subtitle-project">In Progress Certificates</p>
             <div className="portfolio">
