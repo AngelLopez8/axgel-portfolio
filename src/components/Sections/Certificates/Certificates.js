@@ -48,7 +48,7 @@ const Certificates = () => {
                     link={""}
                 />
                 <Certificate
-                    title={"MATLAB Programming for Engineers and Scientists Specialization"}
+                    title={"Java Programming Masterclass covering Java 11 & Java 17"}
                     media={DEFAULT}
                     link={""}
                 />
