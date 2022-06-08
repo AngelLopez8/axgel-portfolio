@@ -48,7 +48,7 @@ const Certificates = () => {
                     link={""}
                 />
                 <Certificate
-                    title={"Java Programming Masterclass covering Java 11 & Java 17"}
+                    title={"Spring & Hibernate for Beginners (include Spring Boot)"}
                     media={DEFAULT}
                     link={""}
                 />
