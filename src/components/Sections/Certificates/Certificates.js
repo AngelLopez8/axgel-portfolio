@@ -20,9 +20,9 @@ const Certificates = () => {
                     link={"https://www.udemy.com/certificate/UC-2a0d230d-d43e-4e70-ab9f-a1ddf54bb73b/"}
                 />
                 <Certificate
-                    title={"Become a Django Developer"}
+                    title={"The Complete Node.js Developer Course (3rd Edition)"}
                     media={DJANGO}
-                    link={"https://www.linkedin.com/in/angel-lopez-a93a43156/"}
+                    link={"https://www.udemy.com/certificate/UC-44b8e8c0-7710-4549-800b-fd3a7aca5a23/"}
                 />
                 <Certificate
                     title={"The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert"}
@@ -48,7 +48,7 @@ const Certificates = () => {
                     link={""}
                 />
                 <Certificate
-                    title={"Spring & Hibernate for Beginners (include Spring Boot)"}
+                    title={"The Web Developer Bootcamp 2022"}
                     media={DEFAULT}
                     link={""}
                 />
